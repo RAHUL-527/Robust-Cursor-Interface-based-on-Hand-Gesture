@@ -1,0 +1,1 @@
+pip install pillow opencv-python mediapipe pyautogui pyvolume numpy screen-brightness-control
